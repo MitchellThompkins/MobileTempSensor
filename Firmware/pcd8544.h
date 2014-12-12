@@ -8,6 +8,9 @@
  * Author       :  Fandi Gunawan <fandigunawan@gmail.com>
  * Website      :  http://fandigunawan.wordpress.com
  *
+ * Modified By  :  Timothy Mitchell Thompkins
+ * Website      :  TimothyThompkins.github.io
+ *
  * Credit       :  Sylvain Bissonette (2003)
  *                 Louis Frigon (2003)
  *

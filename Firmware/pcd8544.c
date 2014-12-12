@@ -10,6 +10,10 @@
  * Author       :  Fandi Gunawan <fandigunawan@gmail.com>
  * Website      :  http://fandigunawan.wordpress.com
  *
+ * Modifed By   :  Timothy Mitchell Thompkins
+ * Website      :  TimothyThompkins.github.io
+ *
+ *
  * Credit       :  Sylvain Bissonette (2003)
  *
  * License      :  GPL v. 3
